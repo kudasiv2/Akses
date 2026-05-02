@@ -1,0 +1,16 @@
+{
+  "name": "akses-wileys-custom",
+  "version": "1.0.0",
+  "description": "Custom stable wrapper around wileys with helper APIs for buttons, lists, media, and resilient connection management.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["whatsapp", "baileys", "wileys", "bot"],
+  "license": "MIT",
+  "dependencies": {
+    "pino": "^9.5.0",
+    "wileys": "latest"
+  }
+}
